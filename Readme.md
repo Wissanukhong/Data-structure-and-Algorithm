@@ -14,4 +14,9 @@
 ```node
     npm init
 
+    //เพื่อทำการใช้งานโปรเจค
+    npm install express express-session mysql --save
+
 ```
+
+

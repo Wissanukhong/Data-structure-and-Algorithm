@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Wissanukhong/Node-login/issues"
   },
-  "homepage": "https://github.com/Wissanukhong/Node-login#readme"
+  "homepage": "https://github.com/Wissanukhong/Node-login#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "mysql": "^2.18.1"
+  }
 }
