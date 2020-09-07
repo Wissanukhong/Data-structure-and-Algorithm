@@ -8,3 +8,10 @@ function add(n) {
     return result
 }
 console.log(add(3));
+
+// solution 2
+function add2(n) {
+    return (n + 1) * n / 2;
+}
+
+console.log(add2(5));
